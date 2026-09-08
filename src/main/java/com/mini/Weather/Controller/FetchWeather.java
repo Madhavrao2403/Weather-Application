@@ -17,7 +17,7 @@ public class FetchWeather {
     @GetMapping(value = "fetch", produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<String> fetchWeather(@RequestParam Map<String, String> request) {
         String city = request.get("city");
-        String api = "96e00466b45d5e9ab8757698c3cb9c2f";
+        String api = "Your_API";
         String url = "http://api.weatherstack.com/current?access_key="+api+"&query="+city;
 
         try{

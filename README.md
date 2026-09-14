@@ -102,3 +102,4 @@ This is a learning project. Contributions and suggestions are welcome — open a
 ## License
 
 This project is provided as-is for learning purposes. Add a proper LICENSE file if you plan to share or publish under a specific license.
+**Day 1/50 — Java + Spring Boot Mini Project Challenge 🚀**
